@@ -1,0 +1,28 @@
+{
+  "name": "ramprotocol-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soumil4561/ramprotocol-assignment.git"
+  },
+  "author": "Soumil Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Soumil4561/ramprotocol-assignment/issues"
+  },
+  "homepage": "https://github.com/Soumil4561/ramprotocol-assignment#readme",
+  "dependencies": {
+    "@google/generative-ai": "^0.3.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "node-telegram-bot-api": "^0.65.1",
+    "nodemon": "^3.1.0",
+    "openai": "^4.0.0",
+    "telegraph": "^0.8.22"
+  }
+}
